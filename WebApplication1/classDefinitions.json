@@ -1,0 +1,38 @@
+[
+  {
+    "name": "testclassa",
+    "properties": [
+      {
+        "name": "fooBar",
+        "typeName": "System.String"
+      }
+    ]
+  },
+  {
+    "name": "testclassb",
+    "properties": [
+      {
+        "name": "latestdate",
+        "typeName": "System.DateTime"
+      }
+    ]
+  },
+  {
+    "name": "testclassc",
+    "properties": [
+      {
+        "name": "latestdate",
+        "typeName": "System.Boolean"
+      }
+    ]
+  },
+  {
+    "name": "testclassd",
+    "properties": [
+      {
+        "name": "latestdate",
+        "typeName": "System.DateTime"
+      }
+    ]
+  }
+] 

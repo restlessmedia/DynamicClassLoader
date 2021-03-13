@@ -1,0 +1,12 @@
+[
+  {
+    "name": "AccessCctInterface",
+    "columns": [
+      {
+        "name": "acccctint",
+        "type": "System.Data.SqlDbType.Int",
+        "isNullable": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "testclassa",
+    "columns": [
+      { "name": "foo" },
+      { "type": "System.String" }
+    ]
+  },
+  {
+    "name": "testclassb",
+    "columns": [
+      { "name": "latestdate" },
+      { "type": "System.DateTime" }
+    ]
+  }
+]
